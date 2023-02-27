@@ -8,19 +8,19 @@ clear
 
 
 portuguese(){
-    bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/instaladorportugues.sh)
+    bash <(curl https://raw.githubusercontent.com/danzkeceh/pterodactylthemes/main/menu.sh)
 }
 
 german(){
-    bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/instaladorgerman.sh)
+    bash <(curl https://raw.githubusercontent.com/danzkeceh/pterodactylthemes/main/menu.sh)
 }
 
 english(){
-    bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/instaladorenglish.sh)
+    bash <(curl https://raw.githubusercontent.com/danzkeceh/pterodactylthemes/main/menu.sh)
 }
 
     CYAN='\033[0;36m'
-    echo -e "${CYAN}Copyright (c) 2022 TemuxOS"
+    echo -e "${CYAN}Copyright (c) 2023 TemuxOS"
     echo -e "${CYAN}This Software is opensource."
     echo -e "Theme Instalator"
     echo -e "${CYAN}Discord: https://discord.gg/WkVVtTaBRh/"
